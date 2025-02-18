@@ -1,1 +1,1 @@
-BBM203 assignment involves Data Structure concepts.
+BBM203 assignment involves Data Structures concepts.
