@@ -1,0 +1,22 @@
+What is the minimum number of nodes in a binary tree of height h?
+What data structure is commonly used for level-order traversal?
+What is the maximum height of a Red-Black tree with n nodes?
+What year Hacettepe University was established in?
+What is the top node of a tree called?
+What do we call a node with no children?
+Which traversal visits nodes in left-root-right order?
+Which traversal visits nodes in root-left-right order?
+Which traversal visits nodes in left-right-root order?
+How many faculty members HUBBM has currently? In letters e.g. 'one' not '1'
+What is the depth of a root node? In letters e.g. 'one' not '1'
+What is a binary tree where each node has 0 or 2 children?
+What traversal is also known as breadth-first?
+What traversal uses a stack?
+When was the Department of Computer Engineering at Hacettepe University established?
+What is the height of a leaf node? In letters e.g. 'one' not '1'
+What is Selma Hoca's favorite gofret?
+What is index of left child in array based binary tree?
+Why do python programmers wear glasses?
+Why do programmers prefer dark mode?
+Why was the computer cold?
+It is known that even ... is easier than bbm203 assignments. Fill in the blank
