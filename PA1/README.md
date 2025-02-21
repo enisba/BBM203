@@ -43,6 +43,7 @@ To ensure **high efficiency and computational performance**, this project levera
 
 ✅ **Matrix Representation:**  
 ![Triangular Matrix](https://github.com/user-attachments/assets/714ec196-be35-4f18-ada2-d9aafac84cc0)
+![image](https://github.com/user-attachments/assets/bbe162b7-cbae-4fd0-9344-0e83a6b3899f)
 
 ---
 
